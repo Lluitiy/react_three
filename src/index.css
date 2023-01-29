@@ -1,0 +1,10 @@
+canvas {
+	/* position: fixed;
+	top: 0;
+	left: 0; */
+}
+
+section {
+	background-color: black;
+	min-height: 200px;
+}
